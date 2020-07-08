@@ -1,0 +1,11 @@
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('1','Voonder',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('2','Skipstorm',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('3','Dabtype',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('4','Zoomcast',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('5','Zoovu',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('6','Realfire',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('7','Riffpedia',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('8','Twinte',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('9','Kamba',null);
+Insert into ORGANIZATION (PK_ID,LABEL,PAYROLL) values ('10','Gabspot',null);
+commit;
